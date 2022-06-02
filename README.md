@@ -17,10 +17,10 @@ A Java application running on Tomcat that pushes the live prices for cryptocurre
 ## [Cryptocurrency WebSocket iOS Client 🤑📱](https://github.com/georgebarker/ios-crypto-websocket-client)
 iOS app using WebSockets to provide live prices for cryptocurrencies in a list and detailed view.
 
-## [REST WordReference API](https://github.com/georgebarker/rest-wordreference-api) 🗣️
+## [REST WordReference API 🗣️](https://github.com/georgebarker/rest-wordreference-api)
  A REST API wrapper of [WordReference.com](https://wordreference.com) using Express and Docker so that it can be deployed in the cloud and used by any client, rather than being bound to using the JavaScript API. 
 
-## [UK Train Station Finder](https://github.com/georgebarker/StationServer) 🚉
+## [UK Train Station Finder 🚉](https://github.com/georgebarker/StationServer)
 A Java web service to find the nearest UK train stations to your location.  
   This app demonstrates some primitive, raw Java techniques, such as using the native `java.sql.*` package for database interaction, `com.sun.net.httpserver.*` package for the web services, and self-managed dependency injection, showing what can still be achieved in plain, old Java.
 
