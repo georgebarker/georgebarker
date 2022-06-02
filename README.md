@@ -8,8 +8,9 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/georgebarker97/)
 
 # A selection of my open source projects
-I invite you take a look at my open source, public projects.  
-  Here, you can get a feel of what problems I an interested in solving, and what technologies I use to solve them.
+I invite you take a look at some of my open source, public projects.  
+  Here, you can get a feel of what problems I an interested in solving, and what technologies I use to solve them.  
+  You'll find a complete list in [my public repositories](https://github.com/georgebarker?tab=repositories).
   
 ## [Cryptocurrency WebSocket Server 🤑](https://github.com/georgebarker/crypto-websocket-server)
 A Java application running on Tomcat that pushes the live prices for cryptocurrencies to clients listening on a WebSocket.
