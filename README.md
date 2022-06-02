@@ -10,7 +10,7 @@
 
 # A selection of my open source projects
 I invite you take a look at some of my open source, public projects.  
-  Here, you can get a feel of what problems I an interested in solving, and what technologies I use to solve them.  
+  Here, you can get a feel of what problems I am interested in solving, and what technologies I use to solve them.  
   You'll find a complete list in [my public repositories](https://github.com/georgebarker?tab=repositories).
   
 ## [Cryptocurrency WebSocket Server 🤑](https://github.com/georgebarker/crypto-websocket-server)
