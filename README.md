@@ -4,6 +4,7 @@
   - 🌍  learning languages
   - ☕️  speciality coffee
   - 💸  finance
+  - 🚆  transportation
   - 👨‍💻  Using my skills as a software engineer to advance these topics
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/georgebarker97/)
 
