@@ -16,7 +16,7 @@ I invite you take a look at some of my open source, public projects.
 ## [Cryptocurrency WebSocket Server 🤑](https://github.com/georgebarker/crypto-websocket-server)
 A Java application running on Tomcat that pushes the live prices for cryptocurrencies to clients listening on a WebSocket.
 
-## [Cryptocurrency WebSocket iOS Client 🤑📱](https://github.com/georgebarker/ios-crypto-websocket-client)
+## [Cryptocurrency WebSocket iOS Client 📱](https://github.com/georgebarker/ios-crypto-websocket-client)
 An iOS app in SwiftUI using WebSockets to provide live prices for cryptocurrencies in a list and detailed view.
 
 ## [REST WordReference API 🗣️](https://github.com/georgebarker/rest-wordreference-api)
