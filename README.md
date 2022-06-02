@@ -7,9 +7,16 @@
   - 👨‍💻  Using my skills as a software engineer to advance these topics
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/georgebarker97/)
 
-# My open source projects
+# A selection of my open source projects
 I invite you take a look at my open source, public projects.  
   Here, you can get a feel of what problems I an interested in solving, and what technologies I use to solve them.
+  
+## [Cryptocurrency WebSocket Server 🤑](https://github.com/georgebarker/crypto-websocket-server)
+A Java application running on Tomcat that pushes the live prices for cryptocurrencies to clients listening on a WebSocket.
+
+## [Cryptocurrency WebSocket iOS Client 🤑📱](https://github.com/georgebarker/ios-crypto-websocket-client)
+iOS app using WebSockets to provide live prices for cryptocurrencies in a list and detailed view.
+
 ## [REST WordReference API](https://github.com/georgebarker/rest-wordreference-api) 🗣️
  A REST API wrapper of [WordReference.com](https://wordreference.com) using Express and Docker so that it can be deployed in the cloud and used by any client, rather than being bound to using the JavaScript API. 
 
