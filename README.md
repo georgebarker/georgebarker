@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @georgebarker
-- 👀 I’m interested in:
+- 🇨🇭 I'm based in Vaud, Switzerland
+- 👀 I’m interested in...
   - 🌍  learning languages
   - ☕️  speciality coffee
   - 💸  finance
