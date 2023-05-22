@@ -5,7 +5,7 @@
   - ☕️  speciality coffee
   - 💸  fintech
   - 🚆  transportation
-  - 👨‍💻  Using my skills as a software engineer to advance these topics
+  - 👨‍💻  Using my skills as a software engineer to create interesting projects related to these topics!
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/georgebarker97/)
 
 # A selection of my projects
