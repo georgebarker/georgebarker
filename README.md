@@ -3,15 +3,18 @@
 - 👀 I’m interested in...
   - 🌍  learning languages
   - ☕️  speciality coffee
-  - 💸  finance
+  - 💸  fintech
   - 🚆  transportation
   - 👨‍💻  Using my skills as a software engineer to advance these topics
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/georgebarker97/)
 
-# A selection of my open source projects
-I invite you take a look at some of my open source, public projects.  
+# A selection of my projects
+I invite you take a look at some of my public projects.  
   Here, you can get a feel of what problems I am interested in solving, and what technologies I use to solve them.  
   You'll find a complete list in [my public repositories](https://github.com/georgebarker?tab=repositories).
+  
+## [SBB CFF FFS - Passenger display 🚞🇨🇭](https://sbb-cff-ffs.up.railway.app)
+A React app using a Java & Spring Boot backend that recreates in real time the passenger information displays seen on train platforms throughout Switzerland, using [SBB's API](https://developer.sbb.ch/apis/ds_contentplayer/information).
   
 ## [Cryptocurrency WebSocket Server 🤑](https://github.com/georgebarker/crypto-websocket-server)
 A Java application running on Tomcat that pushes the live prices for cryptocurrencies to clients listening on a WebSocket.
