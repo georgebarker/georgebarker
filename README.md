@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @georgebarker
-- 🇨🇭 I'm based in Vaud, Switzerland
+- 🇨🇭 I'm based in Lausanne, Switzerland
 - 👀 I’m interested in...
   - 🌍  learning languages
   - ☕️  speciality coffee
