@@ -12,10 +12,13 @@
 I invite you take a look at some of my public projects.  
   Here, you can get a feel of what problems I am interested in solving, and what technologies I use to solve them.  
   You'll find a complete list in [my public repositories](https://github.com/georgebarker?tab=repositories).
-  
+
+<!--
+Under maintenance!
 ## [SBB CFF FFS - Passenger display 🚞🇨🇭](https://sbb-cff-ffs.up.railway.app)
 A React app using a Java & Spring Boot backend that recreates in real time the passenger information displays seen on train platforms throughout Switzerland, using SBB's display API.
-  
+-->
+
 ## [Cryptocurrency WebSocket Server 🤑](https://github.com/georgebarker/crypto-websocket-server)
 A Java application running on Tomcat that pushes the live prices for cryptocurrencies to clients listening on a WebSocket.
 
