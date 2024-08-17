@@ -16,7 +16,7 @@ I invite you take a look at some of my public projects.
 <!--
 Under maintenance!
 ## [SBB CFF FFS - Passenger display 🚞🇨🇭](https://sbb-cff-ffs.up.railway.app)
-A React app using a Java & Spring Boot backend that recreates in real time the passenger information displays seen on train platforms throughout Switzerland, using SBB's display API.
+A React app using a Java & Spring Boot backend, deployed in Google Cloud, that recreates in real time the passenger information displays seen on train platforms throughout Switzerland, using SBB's display API.
 -->
 
 ## [Cryptocurrency WebSocket Server 🤑](https://github.com/georgebarker/crypto-websocket-server)
