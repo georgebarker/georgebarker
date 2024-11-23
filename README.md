@@ -20,7 +20,7 @@ A React app using a Java & Spring Boot backend, deployed in Google Cloud, that r
 -->
 
 ## [Cryptocurrency WebSocket Server 🤑](https://github.com/georgebarker/crypto-websocket-server)
-A Java application running on Tomcat that pushes the live prices for cryptocurrencies to clients listening on a WebSocket.
+A Java application running on Tomcat that pushes live cryptocurrency prices from Binance to clients listening on a WebSocket.
 
 ## [Cryptocurrency WebSocket iOS Client 📱](https://github.com/georgebarker/ios-crypto-websocket-client)
 An iOS app in SwiftUI using WebSockets to provide live prices for cryptocurrencies in a list and detailed view.
