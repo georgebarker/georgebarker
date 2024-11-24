@@ -13,14 +13,14 @@ I invite you take a look at some of my public projects.
   Here, you can get a feel of what problems I am interested in solving, and what technologies I use to solve them.  
   You'll find a complete list in [my public repositories](https://github.com/georgebarker?tab=repositories).
 
-<!--
-Under maintenance!
-## [SBB CFF FFS - Passenger display 🚞🇨🇭](https://sbb-cff-ffs.up.railway.app)
-A React app using a Java & Spring Boot backend, deployed in Google Cloud, that recreates in real time the passenger information displays seen on train platforms throughout Switzerland, using SBB's display API.
--->
+## [SBB CFF FFS - Passenger display 🚞🇨🇭](https://sbb-cff-ffs-2kt3n.ondigitalocean.app)
+Recreates in real time the passenger information displays seen on train platforms throughout Switzerland. 
+
+React app using a Java & Spring Boot backend, fetching data from the SBB display API, deployed on Digital Ocean.
 
 ## [Cryptocurrency WebSocket Server 🤑](https://github.com/georgebarker/crypto-websocket-server)
-A Java application running on Tomcat that pushes live cryptocurrency prices from Binance to clients listening on a WebSocket.
+Pushes live cryptocurrency prices from Binance to clients listening on a WebSocket.
+A Java application running on Tomcat. 
 
 ## [Cryptocurrency WebSocket iOS Client 📱](https://github.com/georgebarker/ios-crypto-websocket-client)
 An iOS app in SwiftUI using WebSockets to provide live prices for cryptocurrencies in a list and detailed view.
