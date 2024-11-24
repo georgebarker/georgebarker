@@ -22,7 +22,7 @@ React app using a Java & Spring Boot backend, fetching data from the SBB display
 Pushes live cryptocurrency prices from Binance to clients listening on a WebSocket.
 A Java application running on Tomcat. 
 
-## [Cryptocurrency WebSocket iOS Client 📱](https://github.com/georgebarker/ios-crypto-websocket-client)
+## [Cryptocurrency WebSocket iOS app 📱](https://github.com/georgebarker/ios-crypto-websocket-client)
 An iOS app in SwiftUI using WebSockets to provide live prices for cryptocurrencies in a list and detailed view.
 
 ## [REST WordReference API 🗣️](https://github.com/georgebarker/rest-wordreference-api)
