@@ -13,6 +13,11 @@ I invite you take a look at some of my public projects.
   Here, you can get a feel of what problems I am interested in solving, and what technologies I use to solve them.  
   You'll find a complete list in [my public repositories](https://github.com/georgebarker?tab=repositories).
 
+## [brewfolio.coffee ☕️](https://brewfolio.coffee)
+Brewfolio helps specialty coffee enthusiasts capture the full story of their brews with a single snap.
+
+React app using a Java & Spring Boot backend, processing & augmenting a supplied image via the OpenAI API, deployed on Digital Ocean.
+
 ## [SBB CFF FFS - Passenger display 🚞🇨🇭](https://sbb-cff-ffs-2kt3n.ondigitalocean.app)
 Recreates in real time the passenger information displays seen on train platforms throughout Switzerland. 
 
