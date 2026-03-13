@@ -13,15 +13,15 @@ I invite you take a look at some of my public projects.
   Here, you can get a feel of what problems I am interested in solving, and what technologies I use to solve them.  
   You'll find a complete list in [my public repositories](https://github.com/georgebarker?tab=repositories).
 
+## [SBB CFF FFS - Passenger display 🚞🇨🇭](https://nssbbcffffsleyptv1m-app-sbb-cff-ffs.functions.fnc.fr-par.scw.cloud)
+Recreates in real time the passenger information displays seen on train platforms throughout Switzerland. 
+
+Developed using [OpenSpec, A lightweight spec-driven framework](https://openspec.dev/), and Claude Code, integrating with the (live SBB Displays API](https://developer.sbb.ch/apis/ds_contentplayer/information), to produce a vanilla JS front-end and NodeJS backend. Deployed on Scaleway.
+
 ## [brewfolio.coffee ☕️](https://brewfolio.coffee)
 Brewfolio helps specialty coffee enthusiasts capture the full story of their brews with a single snap.
 
-React app using a Java & Spring Boot backend, processing & augmenting a supplied image via the OpenAI API, deployed on Digital Ocean.
-
-## [SBB CFF FFS - Passenger display 🚞🇨🇭](https://sbb-cff-ffs-2kt3n.ondigitalocean.app)
-Recreates in real time the passenger information displays seen on train platforms throughout Switzerland. 
-
-React app using a Java & Spring Boot backend, fetching data from the SBB display API, deployed on Digital Ocean.
+React app using a Java & Spring Boot backend, processing & augmenting a supplied image via the OpenAI API, deployed on Scaleway.
 
 ## [Cryptocurrency WebSocket Server 🤑](https://github.com/georgebarker/crypto-websocket-server)
 Pushes live cryptocurrency prices from Binance to clients listening on a WebSocket.
